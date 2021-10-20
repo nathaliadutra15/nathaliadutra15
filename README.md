@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center"> OLÁ!! SOU A NATHÁLIA DUTRA 👋 - ESTAGIÁRIA EM DESENVOLVIMENTO BACKEND FULLSTACK </h1>
 
-<!--
-**nathaliadutra15/nathaliadutra15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block">
+  <img align="right" height="180em" legth="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliadutra15&layout=compact&langs_count=7&theme=radical"/>
+  <p> - 👩🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (Tecnólogo)</p>
+  <p> - 💻 Linguagens de Programação: JAVA, C# e Javascript/Typescript </p>
+  <p> - 📈 Banco de Dados: SQL e MySQL</p>
+  <p> - 📚 Estou estudando atualmente Node.JS </p>  
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
