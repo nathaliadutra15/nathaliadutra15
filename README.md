@@ -1,4 +1,4 @@
-<h1 align="center"> OLÁ!! SOU A NATHÁLIA DUTRA 👋</h1>
+<h1 align="center"> OLÁ, SOU A NATHÁLIA DUTRA! 👋</h1>
 
 <div style="display: inline_block">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliadutra15&layout=compact&langs_count=7&theme=radical"/>
