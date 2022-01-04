@@ -6,7 +6,7 @@
   <p> - 👩🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (Tecnólogo) </p>
   <p> - 💻 Linguagens de Programação: JAVA, C# e Javascript/Typescript </p>
   <p> - 📈 Banco de Dados: SQL Server e MySQL</p>
-  <p> - 📚 Estou estudando atualmente Node.JS </p>  
+  <p> - 📚 Estou estudando atualmente Node.JS e Typescript</p>  
 </div>
 
 
