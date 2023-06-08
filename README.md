@@ -8,7 +8,7 @@
   <p> - 💻 Linguagens de Programação: JAVA, C# e Javascript/Typescript </p>
   <p> - 💼 Frameworks: Angular e NestJS </p>
   <p> - 📈 Banco de Dados: SQL Server e MySQL</p>
-  <p> - 📚 Estou estudando atualmente Node.JS e Typescript</p>  
+  <p> - 📚 Estou estudando atualmente: Typescript e Devops</p>  
 </div>
 
 
