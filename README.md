@@ -7,8 +7,8 @@
     estudante em Desenvolvimento de Software Multiplataforma (FATEC) (Tecnólogos) </p>
   <p> - 💻 Linguagens de Programação: JAVA, C# e Javascript/Typescript </p>
   <p> - 💼 Frameworks: Angular e NestJS </p>
-  <p> - 📈 Banco de Dados: SQL Server e MySQL</p>
-  <p> - 📚 Estou estudando atualmente: Typescript e Devops</p>  
+  <p> - 📈 Banco de Dados: SQL Server, Oracle, MySQL, MongoDB e DynamoDB</p>
+  <p> - 📚 Estou estudando atualmente: AWS Services</p>  
 </div>
 
 
