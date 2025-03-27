@@ -8,7 +8,7 @@
   <p> - 💻 Linguagens de Programação: C# e Javascript/Typescript </p>
   <p> - 💼 Frameworks: NestJS e .NET </p>
   <p> - 📈 Banco de Dados: SQL Server, Oracle, MongoDB e DynamoDB</p>
-  <p> - 📚 Estou estudando atualmente: AWS Services</p>  
+  <p> - 📚 Estou estudando atualmente: AWS Services | Docker </p>  
 </div>
 
 
