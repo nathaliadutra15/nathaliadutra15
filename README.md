@@ -2,7 +2,7 @@
 
 <div style="display: inline_block">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliadutra15&layout=compact&langs_count=11&theme=radical"/>
-  <p> - 👩‍💻 Desenvolvedora Backend Júnior </p>
+  <p> - 👩‍💻 Desenvolvedora Backend </p>
   <p> - 👩🏻‍🎓 Formada em Análise e Desenvolvimento de Sistemas (UAM) e 
     Formada em Desenvolvimento de Software Multiplataforma (FATEC) - (Tecnólogos) </p>
   <p> - 💻 Linguagens de Programação: C# e Javascript/Typescript </p>
